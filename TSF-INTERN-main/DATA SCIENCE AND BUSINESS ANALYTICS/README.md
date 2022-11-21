@@ -1,2 +1,2 @@
-This is a Git journal for the #gripseptember22 intern at #thesparkfoundation.
-Author: GANGA GYATSO
+This is a Git journal for the #gripnovember22 intern at #thesparkfoundation.
+Author: Tenzin Choyang
